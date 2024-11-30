@@ -1,0 +1,414 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+}
+.navbar li {
+    margin-right: 30px;
+    list-style: none;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+.navbar{
+    padding-right: 800px;
+    padding-top: 20px;
+    background-color: rgb(241, 237, 237);
+    height: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+
+
+}
+.btn4{
+    padding-left: 500px;
+    color: wheat;
+}
+.btn4 button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+   
+    color: wheat;
+  
+    background-color: rgb(4, 110, 71);
+
+}
+.btn4 button:hover{
+    cursor: pointer;
+    background-color: rgb(7, 137, 89);;
+}
+.btn4 a{
+    color: white;
+}
+.navbar2{
+    padding-top: 60px;
+}
+.header1 h1{
+    padding-left: 400px;
+    word-spacing: 10px;
+    padding-top: 30px;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header1 h3{
+    padding-left: 40px;
+    letter-spacing: 20px;
+    font-size: 30px;
+    
+
+}
+.navbar3 ul {
+    display: flex;
+    justify-content: center;
+}
+.navbar3 li {
+    margin-right: 50px;
+    list-style: none;
+
+}
+.navbar3{
+    padding-top: 20px;
+    
+}
+.header2 li{
+    padding-top: 10px;
+}
+.header3 h1{
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 60px;
+    text-decoration: underline;
+}
+.image img{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+.navbar5{
+    display: flex;
+
+}
+.header7{
+    padding-left: 60px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.header6{
+    padding-top: 30px;
+    border-radius: 20px;
+    padding-left: 50px;
+}
+.header5{
+    padding-top: 30px;
+    border-radius: 50px;
+    padding-left: 50px;
+}
+.header4{
+    padding-top: 30px;
+    border-radius: 50px;
+    padding-left: 20px;
+}
+.header4 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header5 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header6 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header7 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.btn{
+    padding-top: 80px;
+    padding-left: 170px;
+}
+.btn button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+  
+    background-color: rgb(4, 110, 71);
+    color: aliceblue;
+}
+.btn button:hover{
+    cursor: pointer;
+    background-color: rgb(7, 137, 89);;
+}
+.navbar7{
+    padding-left: 400px;
+    padding-top: 70px;
+}
+.header8 h1{
+    font-size: 60px;
+    text-decoration: wavy;
+}
+.header8 p{
+    padding-top: 25px;
+  
+    font-size: 25px;
+    text-decoration: underline;
+}
+.header13{
+    padding-left: 60px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.header12{
+    padding-top: 30px;
+    border-radius: 20px;
+    padding-left: 50px;
+}
+.header11{
+    padding-top: 30px;
+    border-radius: 50px;
+    padding-left: 50px;
+}
+.header10{
+    padding-top: 30px;
+    border-radius: 50px;
+    padding-left: 20px;
+}
+.header9{
+    padding-left: 60px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+.navbar8{
+    display: flex;
+}
+.header9 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header10 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header11 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header12 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.header13 p{
+    padding-top: 30px;
+    text-decoration: underline;
+    color: gray;
+}
+.navbar9{
+    padding-left: 400px;
+    padding-top: 70px;
+}
+.header14 h1{
+    font-size: 60px;
+    text-decoration: wavy;
+}
+.header14 p{
+    padding-top: 25px;
+  
+    font-size: 25px;
+    text-decoration: underline;
+}
+.navbar10{
+    display: flex;
+}
+.image1{
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+.image2{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+.image3{
+    padding-top: 50px;
+    padding-left: 20px;
+}
+.image2 h2{
+    padding-left: 50px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.image3 h2{
+    padding-left: 50px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.image1 h2{
+padding-top: 20px;
+padding-left: 50px;
+text-decoration: underline;
+}
+.image1 p{
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 20px;
+}.btn1{
+    padding-top: 80px;
+    padding-left: 170px;
+}
+.btn1 button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+  
+    background-color: rgb(4, 110, 71);
+    color: aliceblue;
+}
+.btn1 button:hover{
+    cursor: pointer;
+    background-color: rgb(7, 137, 89);;
+}
+.image4{
+    padding-top: 20px;
+    padding-left:20px ;
+}
+.navbar12{
+    display: flex;
+    background-color: rgb(212, 211, 211);
+}
+.header15{
+    padding-top: 300px;
+    padding-left: 100px;
+
+}
+.header15 h1{
+    font-size: 50px;
+}
+.header15 p{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.btn2{
+    padding-top: 500px;
+    padding-right: 30px;
+}
+.btn2 button{
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     
+    background-color: rgb(4, 110, 71);
+    color: aliceblue;
+
+}
+.btn2 button:hover{
+    cursor: pointer;
+    background-color: rgb(7, 137, 89);;
+}
+.container1{
+    padding-top: 100px;
+    padding-left: 20px;
+    display: flex;
+  
+}
+.paragraph1 p{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.paragraph1 h1{
+    padding-top: 10px;
+    font-size:40px;
+}
+.image5{
+    padding-left: 90px;
+}
+.paragraph1{
+    padding-top: 10px;
+}
+
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    padding-left: 10vh;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.list ul{
+    list-style: none;
+}
+.footer h4{
+    margin-bottom: 10px;
+}
+.logo{
+    margin: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+.logo i{
+    padding: 10px 0px 10px 10px;
+    width: 35px;
+    height: 35px;
+    border: gray solid;
+    border-radius: 50%;
+    border-width: 1px;
+    margin: 15px;
+}
+.id img{
+    padding-right: 30px;
+}
+.footer2{
+    display: flex;
+    align-items: center;  
+      justify-content: space-between;
+}
+.ac{
+display: flex;
+align-items: center;
+justify-content: center;
+padding-left: 20px;
+}
+.ac p{
+    margin: 20px;
+    padding-left: 20px;
+    padding: 10px;
+}
+.ac img{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.header16 h1{
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 50px;
+}
+.last{
+    background-color: black;
+    color: white;
+}
